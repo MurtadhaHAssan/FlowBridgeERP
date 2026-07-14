@@ -1,12 +1,12 @@
 FlowBridge ERP – Business Process Automation System
 
-Overview
+Overview:
 
 FlowBridge ERP is a SQL-based project that simulates business workflow automation inside an enterprise environment.
 
 The system demonstrates how departments, employees, requests, and approvals are connected through a relational database.
 
-## Features
+Features:
 
 - Department management
 - Employee management
@@ -16,7 +16,7 @@ The system demonstrates how departments, employees, requests, and approvals are 
 - JOIN queries
 - GROUP BY reports
 
-Database Structure
+Database Structure:
 
 Departments
 ↓
@@ -26,13 +26,13 @@ Requests
 ↓
 Approvals
 
-Technologies
+Technologies:
 
 - MySQL
 - SQL
 - GitHub
 
-## Sample Reports
+Sample Reports:
 
 - Employee list
 - Approved requests
